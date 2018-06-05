@@ -48,7 +48,7 @@ public class ListOperations {
 
     System.out.println("sum: " + sum);
     
-    return (sum * average) / 2;
+    return (sum * average) / arr.length;
     
   }
 
